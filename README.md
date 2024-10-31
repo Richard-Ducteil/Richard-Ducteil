@@ -1,3 +1,4 @@
+<img align="top" alt="coding" width="1000" height="350" src="https://user-images.githubusercontent.com/99426565/173877723-72070181-d006-4773-9296-a96066814f04.gif">
 ## Hi there 👋
 
 - 🔭 I’m currently working on **Reactjs & NextJs**
@@ -24,4 +25,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Richard-Ducteil&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="top" alt="coding" width="" src="https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif">
