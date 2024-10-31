@@ -1,5 +1,5 @@
 <img align="top" alt="coding" width="1000" height="350" src="https://user-images.githubusercontent.com/99426565/173877723-72070181-d006-4773-9296-a96066814f04.gif">
-## Hi there 👋
+** Welcome 👋
 
 - 🔭 I’m currently working on **Reactjs & NextJs**
 - 🌱 I’m currently learning Laravel
